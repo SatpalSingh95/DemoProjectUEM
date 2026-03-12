@@ -109,6 +109,9 @@ public class AddAddProductToCart extends BaseClass {
 	  res.then()
 	  .assertThat().statusCode(200)
 	  .log().all();
+	  
+	  
+	  System.out.println("this is second commit");
 	}
 	
 }
