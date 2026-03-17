@@ -110,7 +110,7 @@ public class AddAddProductToCart extends BaseClass {
 	  .assertThat().statusCode(200)
 	  .log().all();
 	  System.out.println("testing universe");
-	  
+	  int a=10;
 	}
 	
 }
