@@ -109,9 +109,6 @@ public class AddAddProductToCart extends BaseClass {
 	  res.then()
 	  .assertThat().statusCode(200)
 	  .log().all();
-	  
-	  System.out.println("main changes branches");
-	 System.out.println("master changes");
 
 	}
 	
