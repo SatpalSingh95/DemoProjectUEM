@@ -111,9 +111,7 @@ public class AddAddProductToCart extends BaseClass {
 	  .log().all();
 	  
 	  
-	  System.out.println("this is second commit");
-	  System.out.println("main");
-	 System.out.println("main");
+	 System.out.println("master changes");
 	}
 	
 }
